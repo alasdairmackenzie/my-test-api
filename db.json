@@ -1,13 +1,28 @@
 {
   "tills": [
     {
+      "id": 0,
+      "name": "Till 1",
+      "location": "0001",
+      "status": "online",
+      "lastSeen": "2024-07-26T09:00:00Z",
+      "companyCode": "00005"
+    },
+    {
       "id": 1,
-      "title": "till one",
-      "status" : "online"
-    }, {
+      "name": "Till 2",
+      "location": "0002",
+      "status": "offline",
+      "lastSeen": "2024-07-26T09:00:00Z",
+      "companyCode": "00005"
+    },
+    {
       "id": 2,
-      "title": "till two",
-      "status" : "online"
+      "name": "Till 3",
+      "location": "0003",
+      "status": "online",
+      "lastSeen": "2024-07-26T09:00:00Z",
+      "companyCode": "00005"
     }
   ],
   "profile": {
