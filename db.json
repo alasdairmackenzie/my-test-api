@@ -1,8 +1,13 @@
 {
-  "posts": [
+  "tills": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "till one",
+      "status" : "online"
+    }, {
+      "id": 2,
+      "title": "till two",
+      "status" : "online"
     }
   ],
   "profile": {
